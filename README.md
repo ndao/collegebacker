@@ -42,6 +42,8 @@ why you made the technical decisions you made.
 
 - [x] Include automated tests as needed.
 
+![App preview](https://github.com/ndao/collegebacker/blob/master/cb.gif "App preview")
+
 ### Some words about this app
 `Create React App` is the fastest way to start a React project so I picked it for this exercise. There is no other front end libraries aside from ReactJS that is used for this project, no fancy router/Redux/etc., just a simple page.
 
