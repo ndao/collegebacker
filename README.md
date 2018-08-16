@@ -16,12 +16,19 @@ npm install
 npm run build
 ```
 
-### Run script
+### To start the app
 ```
 node server
 ```
 
 ### Open page at `localhost:3000`
+
+### Test
+Enzyme unit tests
+
+```
+npm test
+```
 
 ### App requirements
 - [x] If there are no contributors, display a text link labeled “Invite a contributor”.
